@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/arksy/Documents/faculdade/tcc'
+make: Leaving directory '/home/arksy/Documents/faculdade/tcc'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+

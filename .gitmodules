@@ -13,3 +13,6 @@
 [submodule "hermes"]
 	path = hermes
 	url = git@github.com:tonussi/hermes.git
+[submodule "planilha-defesa-tcc"]
+	path = planilha-defesa-tcc
+	url = git@github.com:tonussi/planilha-defesa-tcc.git
