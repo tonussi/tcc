@@ -10,3 +10,6 @@
 [submodule "tcc-artigo-sbc"]
 	path = tcc-artigo-sbc
 	url = git@github.com:tonussi/tcc-artigo-sbc.git
+[submodule "hermes"]
+	path = hermes
+	url = git@github.com:tonussi/hermes.git
