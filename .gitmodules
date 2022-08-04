@@ -7,9 +7,3 @@
 [submodule "stateful-http-api-replication"]
 	path = stateful-http-api-replication
 	url = git@github.com:tonussi/stateful-http-api-replication.git
-[submodule "tcc-written-part"]
-	path = tcc-written-part
-	url = git@github.com:tonussi/tcc-written-part.git
-[submodule "tcc-artigo-sbc"]
-	path = tcc-artigo-sbc
-	url = git@github.com:tonussi/tcc-artigo-sbc.git
