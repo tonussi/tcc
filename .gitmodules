@@ -1,9 +1,6 @@
 [submodule "http-log-server"]
 	path = http-log-server
 	url = git@github.com:tonussi/http-log-server.git
-[submodule "hermes"]
-	path = hermes
-	url = git@github.com:tonussi/hermes.git
 [submodule "stateful-http-api-replication"]
 	path = stateful-http-api-replication
 	url = git@github.com:tonussi/stateful-http-api-replication.git
